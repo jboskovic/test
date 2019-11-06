@@ -7,5 +7,7 @@ int main() {
     
     printf("%d\n", a+b);
     
+    printf("Hello world, blabalblablalb\n");
+
     return 0;
 }
